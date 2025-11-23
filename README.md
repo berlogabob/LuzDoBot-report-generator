@@ -1,0 +1,1 @@
+# LuzDoBot-report-generator
